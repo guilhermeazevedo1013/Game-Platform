@@ -16,7 +16,7 @@
   
 </p>
 
-Plataforma de jogos educacionais
+Plataforma de Jogos Educacionais
 
 <h2 align="center">Cosmos Memory</h2>
 
